@@ -52,7 +52,7 @@
 * [[HTTP headers]]
 * [[HTTP response codes]]
 * [[HTTP basic auth]]
-* [[What is a cookie?]]
+* [[What is a cookie]]
 * [[AJAX]] / [[JSONP]]
 * [[ReST]] (and how it compares to SOAP, Graph, etc.)
 * [[Asynchronous ReST]]
